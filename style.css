@@ -60,6 +60,15 @@ a:hover {
 	margin: 0px auto;
 }
 
+.entry {
+	font-size: 16px;
+}
+
+.mycontent {
+	text-align: center;
+	font-size: 18px;
+}
+
 /* Header */
 
 #header-wrapper {
